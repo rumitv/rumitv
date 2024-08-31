@@ -61,5 +61,5 @@ int main() {
         printf("It's night, there is no shadow.\n");
     }
 
-    return 0;
+    return 2;
 }
